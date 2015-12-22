@@ -1,6 +1,7 @@
 gnutls28 (3.3.19-1blankon1) tambora; urgency=medium
 
-  * Rebuild 
+  * Rebuild
+  * Disable override_dh_auto_test
 
  -- mhy <dotovr@mhy>  Mon, 21 Dec 2015 14:14:52 +0700
 
